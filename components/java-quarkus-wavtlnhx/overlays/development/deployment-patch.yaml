@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.cluster-t98q8.t98q8.sandbox2574.opentlc.com/tssc_qe/java-quarkus-wavtlnhx:d9c4988c1934413e099d1589a25323d0bd743c9c@sha256:976c84f5864289c9080a82e48f0d24a70b75e0544b9a6fe8bc85dca3aa1a08d4
+        - image: nexus-docker-nexus.apps.cluster-t98q8.t98q8.sandbox2574.opentlc.com/tssc_qe/java-quarkus-wavtlnhx:4f939d833183c5a117c5d72ff488955109947086@sha256:82f0dd3d7bf99ca1bc9574d0d486adc2dd611a8b35d6b37115895018e7606723
           name: container-image
